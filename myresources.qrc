@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/ghost.png</file>
+        <file>img/fork.png</file>
+        <file>img/whitedog.png</file>
+        <file>img/ball.png</file>
+        <file>img/poop.png</file>
+        <file>img/final.jpg</file>
+        <file>img/timer.png</file>
+        <file>img/cutetimer.png</file>
+    </qresource>
+</RCC>
